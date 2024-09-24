@@ -1,4 +1,7 @@
- Project Title: To-Do List Application
+ Project Title: 
+ To-Do List Application
+
+ Overview:
  The To-Do List Application helps users manage tasks by allowing them to add, display, remove, and update tasks. 
  Mention that it’s a simple Python command-line project designed to help you practice Python fundamentals such as lists, loops, and functions.
  
